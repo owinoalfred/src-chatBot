@@ -20,4 +20,4 @@ def run_disord_bot():
     async def on_ready():
         print(f'{client.user} is now running')
 
-        client.run('https://discord.com/api/oauth2/authorize?client_id=1092398279351869520&permissions=534723950656&scope=bot')
+        client.run('')
