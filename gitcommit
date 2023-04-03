@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "adiing the functions to handle the responses from different users"
+git commit -m "finalisiing with  the functions that help to see authentication"
 git push
