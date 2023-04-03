@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "finalisiing with  the functions that help to see authentication"
+git commit -m "inputting all the finished ks"
 git push
