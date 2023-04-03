@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "a Bot that helps enhance study in Computer Science"
+git commit -m "adiing the functions to handle the responses from different users"
 git push
